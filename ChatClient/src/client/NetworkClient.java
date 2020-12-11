@@ -18,7 +18,6 @@ import java.util.List;
 
 public class NetworkClient extends Application {
 
-    public static final List<String> USERS_TEST_DATA = List.of("Борис_Николаевич", "Мартин_Некотов", "Гендальф_Серый");
     private Stage primaryStage;
     private Stage authStage;
     private Network network;
